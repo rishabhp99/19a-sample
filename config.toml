@@ -126,6 +126,6 @@ canonifyURLs = true
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
 [social]
-  facebook         = "https://www.facebook.com/the19a/"
-  youtube          = "https://www.youtube.com/channel/UC7yrs7aYl7YmjE7uIeVD4PA"
-  instagram        = "https://www.instagram.com/19a.rit/?igshid=qq4q5dbrs36l"
+  facebook         = "the19a"
+  youtube          = "channel/UC7yrs7aYl7YmjE7uIeVD4PA"
+  instagram        = "19a.rit"
