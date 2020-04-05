@@ -1,6 +1,6 @@
 baseurl = "https://msrit19a.netlify.com/"
 languageCode = "en-us"
-title = ""
+title = "19A"
 theme = "future_theme"
 preserveTaxonomyNames = true
 paginate = 3
@@ -82,7 +82,7 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "19A"
+  header    = ""
 
   paragraph = ""
 
@@ -92,9 +92,9 @@ canonifyURLs = true
   # A width of less than 100px is recommended from a design perspective.
  
   [params.intro.pic]
-    src       = "/img/main/logo.png"
+    src       = "/img/main/logo.jpg"
     # Sets Image to be a cirlce
-    circle    = false
+    circle    = true
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
