@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://msrit19a.netlify.com/"
 languageCode = "en-us"
 title = "19A"
 theme = "future_theme"
