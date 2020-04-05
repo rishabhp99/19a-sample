@@ -1,6 +1,6 @@
 baseurl = "https://msrit19a.netlify.com/"
 languageCode = "en-us"
-title = "19A"
+title = ""
 theme = "future_theme"
 preserveTaxonomyNames = true
 paginate = 3
@@ -92,7 +92,7 @@ canonifyURLs = true
   # A width of less than 100px is recommended from a design perspective.
  
   [params.intro.pic]
-    src       = "/img/main/logo.jpg"
+    src       = "/img/main/logo.png"
     # Sets Image to be a cirlce
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
