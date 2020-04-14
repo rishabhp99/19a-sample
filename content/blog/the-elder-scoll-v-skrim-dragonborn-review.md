@@ -2,7 +2,7 @@
 author = "Siddharth P. Kumar"
 categories = ["Game Review"]
 tags = ["game review"]
-date = "2019-03-19"
+date = "2020-04-14"
 description = ""
 featured = "elder-scrolls-skyrim.png"
 featuredalt = ""
