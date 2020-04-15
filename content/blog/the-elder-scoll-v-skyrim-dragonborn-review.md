@@ -8,7 +8,7 @@ featured = "elder-scrolls-skyrim.png"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-title = "The Elder Scolls V: Skrim Dragonborn Review"
+title = "The Elder Scolls V: Skyrim Dragonborn Review"
 type = "post"
 
 +++
