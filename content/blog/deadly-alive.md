@@ -43,7 +43,7 @@ I told them I want to help in bringing the dead and alive near
 
 I begged him to associate, in this marvelous creation
 
-That a boon this may be on this populous nation
+That a boon this may be on this populous nation  
 
 
 
@@ -53,7 +53,7 @@ To the dead that lay ahead
 
 Whom would I speak to, given a chance 
 
-Would it be to whose death I led.
+Would it be to whose death I led.  
 
 
 
