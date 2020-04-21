@@ -8,7 +8,7 @@ featured = "medusa.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-title = "Medussa"
+title = "Medusa"
 type = "post"
 
 +++
