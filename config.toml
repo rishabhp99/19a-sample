@@ -113,16 +113,16 @@ canonifyURLs = true
   weight = 1
 
 [[menu.main]]
-  name = "About"
-  url = "/about/"
-  identifier = "fa fa-id-card-o"
-  weight = 3
-
-[[menu.main]]
   name = "Blog"
   url = "/blog/"
   identifier = "fa fa-newspaper-o"
   weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  identifier = "fa fa-id-card-o"
+  weight = 3
 
 
 [[menu.main]]
@@ -130,12 +130,13 @@ canonifyURLs = true
   url = "/categories/"
   identifier = "fa fa-sitemap"
   weight = 4
+ 
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  identifier = "fa fa-sitemap"
+  weight = 5
   
- [[menu.main]]
- name = "Tags"
- url = "/tags/"
- identifier = "fa fa-sitemap"
- weight = 5
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
