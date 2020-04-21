@@ -45,7 +45,9 @@ I begged him to associate, in this marvelous creation
 
 That a boon this may be on this populous nation  
 
+<html>
 
+<br><br></html>
 
 'It' gave me a chance to speak 
 
@@ -55,7 +57,9 @@ Whom would I speak to, given a chance
 
 Would it be to whose death I led.  
 
+<html>
 
+<br><br></html>
 
 I refused saying I don't know what ‘It’ meant
 
@@ -67,7 +71,9 @@ Of the one I loved so dear
 
 Could I look across and see.
 
+<html>
 
+<br><br></html>
 
 Oh those memories of that dark time returned, 
 
@@ -77,7 +83,9 @@ I entered a chamber where people mourned
 
 On a seat she sat with grace and beauty, now who looked like a nun
 
+<html>
 
+<br><br></html>
 
 And she got me connected to him my friend who died in accident 
 
@@ -87,7 +95,9 @@ It was a cycle, for the life to get sucked by
 
 to cry over the repent.
 
+<html>
 
+<br><br></html>
 
 "Hello there, it's been long.
 
@@ -97,7 +107,9 @@ Are you here to write your song?"
 
 With sadness my visage masked
 
+<html>
 
+<br><br></html>
 
 He replied, “The one that death would appreciate 
 
@@ -121,7 +133,9 @@ And he looked and he peeked
 
 At once he said, "The truth is all I seek."
 
+<html>
 
+<br><br></html>
 
 I wondered what he hid under a cloak so long 
 
@@ -131,7 +145,9 @@ And he pinned and blamed me for his life
 
 I did all I could to successfully survive.
 
+<html>
 
+<br><br></html>
 
 The face was not of the man I knew 
 
@@ -141,7 +157,9 @@ He spoke a curse in Hebrew
 
 All I could hear was strangers' cries.
 
+<html>
 
+<br><br></html>
 
 I told him, “It was my duty to kill you, 
 
@@ -151,7 +169,9 @@ And yes I did it with my knife”
 
 To be used for the gain of only your wife!”
 
+<html>
 
+<br><br></html>
 
 An apple for the lost 
 
@@ -169,7 +189,9 @@ Trade him the apple, for you will seek the orange
 
 The world will heal, with your *NASB* syringe.
 
+<html>
 
+<br><br></html>
 
 “You think you are so smart?!”
 
@@ -179,7 +201,9 @@ I am sure now that you are no more
 
 You are no longer entitled a living being's choice
 
+<html>
 
+<br><br></html>
 
 The ‘It’ slithered from behind and revealed its face 
 
@@ -189,7 +213,9 @@ I am none other than the winner of the devil’s race!
 
 Something I just couldn’t comprehend.
 
+<html>
 
+<br><br></html>
 
 'It' was he and he was ‘It’
 
@@ -205,7 +231,9 @@ And claimed that I had committed murder I spoke with brevity
 
 Despite what had endeavored.
 
+<html>
 
+<br><br></html>
 
 I laughed and did not shiver, 
 
@@ -217,7 +245,9 @@ In the eyes of truth
 
 I seemed like a winner.
 
+<html>
 
+<br><br></html>
 
 I was talking to the non-existing 
 
@@ -227,7 +257,9 @@ The dead people's society
 
 Confirmed that his soul had shattered.
 
+<html>
 
+<br><br></html>
 
 He laughed and laughed like there was no end
 
