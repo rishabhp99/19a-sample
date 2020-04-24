@@ -96,7 +96,7 @@ canonifyURLs = true
     # Sets Image to be a cirlce
     circle    = true
     # Sets Image to be Future Imperfect's hexagon
-    imperfect = false
+    imperfect = true
     width     = "150px"
     alt       = "19A logo"
  
