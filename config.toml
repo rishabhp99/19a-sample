@@ -94,10 +94,10 @@ canonifyURLs = true
   [params.intro.pic]
     src       = "/img/main/logo.png"
     # Sets Image to be a cirlce
-    circle    = true
+    circle    = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = false
-    width     = "1000px"
+    width     = "10px"
     alt       = "19A logo"
  
 [params.postAmount]
