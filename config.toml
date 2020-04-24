@@ -94,7 +94,7 @@ canonifyURLs = true
   [params.intro.pic]
     src       = "/img/main/logo.jpeg"
     # Sets Image to be a cirlce
-    circle    = true
+    circle    = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = "150px"
