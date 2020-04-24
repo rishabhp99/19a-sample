@@ -97,7 +97,7 @@ canonifyURLs = true
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = false
-    width     = "10px"
+    width     = "250px"
     alt       = "19A logo"
  
 [params.postAmount]
