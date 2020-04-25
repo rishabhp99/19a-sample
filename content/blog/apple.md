@@ -1,9 +1,9 @@
 +++
 author = "Ashwin A"
 categories = ["Poem"]
-tags = ["poem","poetry porn ]
+tags = ["poem","poetry porn"]
 date = "2020-04-25"
-description = ""
+description = 
 featured = "apple.jpeg"
 featuredalt = ""
 featuredpath = "date"
