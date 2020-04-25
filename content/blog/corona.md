@@ -8,7 +8,7 @@ featured = "go-corona-go.jpeg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-title = "Corona"
+title = "Ghar Baitho Jang Jeeto"
 type = "post"
 
 +++
