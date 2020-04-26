@@ -167,6 +167,6 @@ The poison worked and she breathed her last. People called her Queen of Fates bu
 
 ---
 
-**Categories:** [Poem](https://19a.in.categories/poem)
+**Categories:** [Poem](https://19a.in/categories/poem/)
 
-**Tags:** [Poem](19a.in/categories/poem) , Weekly Prompt
+**Tags:** [Poem](https://19a.in/tags/poem/) , [Weekly Prompt](https://19a.in/tags/weekly-prompt/)

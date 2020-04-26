@@ -22,3 +22,9 @@ Clubs that are worth hundreds of millions of dollars often spend a bulk of their
 Personally, I’m of the opinion that cash rich football clubs are good for the sport. However, a sport as widely viewed as football goes beyond the realm of just its players. It has been a sport that has thrived because of the rich traditions of its fans and supporters. We, as dedicated followers of the game, pray for it to stay that way. Commercialization has its pros. The difference with football, however, is that it has a greater role to play. It owes something to the community that nourishes it. That is where the bulk of the money should be directed.
 
 This article, by no means, explores the concept of financial inequality from a professional angle. It, to be precise, is the heartfelt confession of a lover of the game. For most of us, football is much more than a matter of life and death. We’d hate to see the game consumed by the ravaging trends of financial superiority.
+
+---
+
+**Categories:** [Non Fiction](https://19a.in/categories/non-fiction/)
+
+**Tags:** [Non Fiction](https://19a.in/tags/non-fiction/) , [Sports](https://19a.in/tags/sports)

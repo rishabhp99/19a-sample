@@ -30,3 +30,9 @@ Bugs aside, Dragonborn is a great piece of DLC. Worth playing, worth exploring, 
 Verdict – Good expansion, great storyline and all in all a solid package for the fans, old and new.
 
 Score – 8/10
+
+---
+
+**Categories:** [Game Review](https://19a.in/categories/game-review/)
+
+**Tags:** [Game Review](https://19a.in/tags/game-review/)
