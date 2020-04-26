@@ -270,3 +270,10 @@ I might know about the Devil's Brew.
 But you should know that,
 
 You perished too!”
+
+---
+
+**Categories:** [Poem](https://19a.in/categories/poem/)
+
+**Tags:** [Poem](https://19a.in/tags/poem/) , [Writing Prompt](https://19a.in/tags/writing-prompt) , [Poetry Porn](https://19a.in/tags/poetry-porn)
+

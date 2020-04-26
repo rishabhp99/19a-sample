@@ -58,3 +58,10 @@ A hospital canteen receipt
 bearing the last words of my grandfather to me, 
 
 written in a shaky script, meant with a firm stance.
+
+---
+
+**Categories:** [Poem](https://19a.in/categories/poem/)
+
+**Tags:** [Poem](https://19a.in/tags/poem/) , [Poetry Porn](https://19a.in/tags/poetry-porn)
+

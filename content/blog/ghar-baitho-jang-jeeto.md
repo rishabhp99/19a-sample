@@ -60,3 +60,10 @@ Na hi isse mazak mei lena hai aur na hi is se dar kar rona hai,
 Na talware uthani hai na tope chalani hai
 
 Is baar ghar baithe baithe hi yeh jang jeet kar dikhani hai..
+
+---
+
+**Categories:** [Poem](https://19a.in/categories/poem/)
+
+**Tags:** [Poem](https://19a.in/tags/poem/) , [Hindi](https://19a.in/tags/hindi)
+

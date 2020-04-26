@@ -57,4 +57,9 @@ It devoured her, boring into her body until
 
 all that was left, was her half-eaten body and her bobby pin.
 
+---
+
+**Categories:** [Poem](https://19a.in/categories/poem/)
+
+**Tags:** [Poem](https://19a.in/tags/poem/) , [Poetry Porn](https://19a.in/tags/poetry-porn)
 

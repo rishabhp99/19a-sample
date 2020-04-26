@@ -58,3 +58,10 @@ To, "Tell me something I do not already know,
 Now would not that be beautiful to sight? To above all else, 
 
 Having made a heart, that was finally proud of itself. 
+
+---
+
+**Categories:** [Poem](https://19a.in/categories/poem/)
+
+**Tags:** [Poem](https://19a.in/tags/poem/) , [Poetry Porn](https://19a.in/tags/poetry-porn)
+
