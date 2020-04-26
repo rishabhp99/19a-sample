@@ -164,3 +164,9 @@ But River couldn’t get up. Her body felt heavy. Leo looked at her with pity .
 He gave that cruel smile again. ”And before you die do watch your stepmother and your husband kissing their hearts out. Do see what real love is” . River closed her eyes in pain.’ I don’t want to watch this, no I can’t. It is better to die. I….’
 
 The poison worked and she breathed her last. People called her Queen of Fates but little did they know she was just Pawn of Power.
+
+---
+
+**Categories:** [Poem](https://19a.in.categories/poem)
+
+**Tags:** [Poem](19a.in/categories/poem) , Weekly Prompt
