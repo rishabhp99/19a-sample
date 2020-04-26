@@ -4,12 +4,8 @@ categories = ["Game Review"]
 tags = ["game review"]
 date = "2020-04-15"
 description = ""
-featured = "elder-scrolls-skyrim.png"
-featuredalt = ""
-featuredpath = "date"
-linktitle = ""
+featured = ["img/2020/04/elder-scrolls-skyrim.png"]
 title = "The Elder Scolls V: Skyrim Dragonborn Review"
-type = "post"
 
 +++
 

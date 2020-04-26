@@ -4,12 +4,8 @@ categories = ["Poem"]
 tags = ["poem","poetry porn"]
 date = "2020-04-25"
 description = ""
-featured = "apple.jpeg"
-featuredalt = ""
-featuredpath = "date"
-linktitle = ""
+images = ["img/2020/04/apple.jpeg"]
 title = "Apple"
-type = "post"
 
 +++
 
@@ -62,4 +58,3 @@ It devoured her, boring into her body until
 all that was left, was her half-eaten body and her bobby pin.
 
 
- 

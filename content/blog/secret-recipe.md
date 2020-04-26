@@ -4,12 +4,8 @@ categories = ["Poem"]
 tags = ["poem","poetry porn" ]
 date = "2020-04-23"
 description = ""
-featured = "secret-recipe.jpeg"
-featuredalt = ""
-featuredpath = "date"
-linktitle = ""
+images = ["img/2020/04/secret-recipe.jpeg"]
 title = "Secret Recipe"
-type = "post"
 
 +++
 

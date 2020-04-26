@@ -4,12 +4,8 @@ categories = ["Fiction"]
 tags = ["daily prompt"]
 date = "2020-04-14"
 description = ""
-featured = "medusa.jpg"
-featuredalt = ""
-featuredpath = "date"
-linktitle = ""
+images = ["img/2020/04/medusa.jpg"]
 title = "Medusa"
-type = "post"
 
 +++
 

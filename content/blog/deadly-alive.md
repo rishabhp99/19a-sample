@@ -4,12 +4,8 @@ categories = ["Poem"]
 tags = ["poem","writing prompt","poetry porn" ]
 date = "2020-04-21"
 description = ""
-featured = "deadly-alive.jpeg"
-featuredalt = ""
-featuredpath = "date"
-linktitle = ""
+images = ["img/2020/04/deadly-alive.jpeg"]
 title = "Deadly Alive"
-type = "post"
 
 +++
 

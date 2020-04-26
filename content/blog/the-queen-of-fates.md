@@ -4,12 +4,8 @@ categories = ["Poem"]
 tags = ["poem","weekly prompt"]
 date = "2020-04-14"
 description = ""
-featured = "queen-of-fates.jpg"
-featuredalt = ""
-featuredpath = "date"
-linktitle = ""
+images = ["img/2020/04/queen-of-fates.jpg"]
 title = "The Queen of Fates"
-type = "post"
 
 +++
 

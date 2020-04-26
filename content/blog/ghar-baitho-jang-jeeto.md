@@ -4,12 +4,8 @@ categories = ["Poem"]
 tags = ["poem","hindi" ]
 date = "2020-04-24"
 description = ""
-featured = "go-corona-go.jpeg"
-featuredalt = ""
-featuredpath = "date"
-linktitle = ""
+images = ["img/2020/04/go-corona-go.jpeg"]
 title = "Ghar Baitho Jang Jeeto"
-type = "post"
 
 +++
 

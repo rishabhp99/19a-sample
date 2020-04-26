@@ -4,12 +4,8 @@ categories = ["Non Fiction"]
 tags = ["non fiction","sports"]
 date = "2020-04-15"
 description = ""
-featured = "zidane.jpg"
-featuredalt = ""
-featuredpath = "date"
-linktitle = ""
+images = ["img/2020/04/zidane.jpg"]
 title = "The Beautiful Game A Matter Of Vanity"
-type = "post"
 
 +++
 

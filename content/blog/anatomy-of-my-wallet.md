@@ -4,12 +4,8 @@ categories = ["Poem"]
 tags = ["poem","poetry porn" ]
 date = "2020-04-22"
 description = ""
-featured = "anatomy-of-my-wallet.jpeg"
-featuredalt = ""
-featuredpath = "date"
-linktitle = ""
+images = ["img/2020/04/anatomy-of-my-wallet.jpeg"]
 title = "Anatomy of My Wallet"
-type = "post"
 
 +++
 
