@@ -4,7 +4,7 @@ categories = ["Poem"]
 tags = ["poetry porn"]
 date = "2020-04-29"
 description = ""
-images = ["img/2020/04/pocket-full-of-artifice"]
+images = ["img/2020/04/pocket-full-of-artifice.jpg"]
 title = "Pocket Full of Artifice"
 
 +++
