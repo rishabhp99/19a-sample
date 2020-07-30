@@ -4,7 +4,7 @@ categories = ["Story"]
 tags = ["story"]
 date = "2020-07-30"
 description = ""
-images = [""]
+images = ["img/2020/07/improv-story.jpeg"]
 title = "Improv Story"
 
 +++
